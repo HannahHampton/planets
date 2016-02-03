@@ -1,1 +1,2 @@
 Mars is cold, yet dry and red. 
+I am demo-ing how to edit files on GitHub directly
